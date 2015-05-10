@@ -1,0 +1,25 @@
+{
+  "name": "nodejs_api_docker",
+  "version": "1.0.0",
+  "description": "nodejs api on with docker file",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/atom2ueki/nodejs_api_docker.git"
+  },
+  "keywords": [
+    "nodejs",
+    "api",
+    "docker"
+  ],
+  "author": "Tony Li",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/atom2ueki/nodejs_api_docker/issues"
+  },
+  "homepage": "https://github.com/atom2ueki/nodejs_api_docker"
+}
